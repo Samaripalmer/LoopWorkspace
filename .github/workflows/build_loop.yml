@@ -42,7 +42,7 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           override_sens \
-          customtypeone_looppatches \ 
+          customtypeone_looppatches \
           algorithm_experiments
           
       # Patch Fastlane Match to not print tables
