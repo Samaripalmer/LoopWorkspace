@@ -43,6 +43,7 @@ jobs:
           future_carbs_4h \
           override_sens \
           customtypeone_looppatches \
+          2002 \
           algorithm_experiments
           
       # Patch Fastlane Match to not print tables
